@@ -33,6 +33,10 @@ npm install
 npm run dev
 ```
 
+# Deploy
+
+You can access the page through the link: https://challenge-frontend-b2bit.vercel.app/
+
 # Project view
 
 ## Login page

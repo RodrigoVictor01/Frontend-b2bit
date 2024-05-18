@@ -27,6 +27,14 @@ Navigate to the project directory and install the dependencies:
 npm install
 ```
 
+### 2.1 Running with Axios
+
+To run the project in the "Project-with-Axios" branch, install Axios in your repository
+
+```sh
+npm install axios
+```
+
 ### 3. Run the project
 
 ```sh

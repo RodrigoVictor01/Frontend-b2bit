@@ -45,15 +45,7 @@ npm run dev
 
 You can access the page through the link: https://challenge-frontend-b2bit.vercel.app/
 
-# Project view
 
-## Login page
-
-![loginPage](https://github.com/RodrigoVictor01/Frontend-b2bit/assets/101594080/5e442070-dc7e-4682-8a56-f5041eb2710c)
-
-## User page
-
-![userPage](https://github.com/RodrigoVictor01/Frontend-b2bit/assets/101594080/626fa6e2-43ae-4bb7-9424-89a08a254b00)
 
 
 
